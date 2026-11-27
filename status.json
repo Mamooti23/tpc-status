@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "title": "OFF",
-  "message": "موقتا بستم",
+  "enabled": true,
+  "title": "",
+  "message": "",
   "image": ""
 }
