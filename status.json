@@ -1,7 +1,7 @@
 {
-  "enabled": true,
-  "title": "",
-  "message": "",
+  "enabled": false,
+  "title": "Offline Host",
+  "message": " فعلا از دسترس خارج شده",
   "image": "",
   "password": ""
 }
