@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "title": "Host Down",
-  "message": "درحال راه اندازی سیستم  هستیم صبور باشید",
+  "enabled": true,
+  "title": "",
+  "message": "",
   "image": "",
   "password": ""
 }
