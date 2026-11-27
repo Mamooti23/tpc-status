@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "title": "OFF",
-  "message": "The app has been temporarily closed by the developer.",
+  "enabled": true,
+  "title": "APP Locked",
+  "message": "Ramz Ro Benevis",
   "image": "",
-  "password": ""
+  "password": "85"
 }
