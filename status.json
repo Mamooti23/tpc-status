@@ -1,7 +1,7 @@
 {
-  "enabled": true,
-  "title": "",
-  "message": "",
+  "enabled": false,
+  "title": "OFF",
+  "message": "The app has been temporarily closed by the developer.",
   "image": "",
   "password": ""
 }
